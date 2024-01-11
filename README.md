@@ -1,2 +1,2 @@
-# projecto1
+# project1
 Project/course control
